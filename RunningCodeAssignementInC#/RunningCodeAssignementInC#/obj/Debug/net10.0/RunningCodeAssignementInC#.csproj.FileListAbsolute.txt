@@ -1,0 +1,14 @@
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\bin\Debug\net10.0\RunningCodeAssignementInC#.exe
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\bin\Debug\net10.0\RunningCodeAssignementInC#.deps.json
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\bin\Debug\net10.0\RunningCodeAssignementInC#.runtimeconfig.json
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\bin\Debug\net10.0\RunningCodeAssignementInC#.dll
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\bin\Debug\net10.0\RunningCodeAssignementInC#.pdb
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\obj\Debug\net10.0\RunningCodeAssignementInC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\obj\Debug\net10.0\RunningCodeAssignementInC#.AssemblyInfoInputs.cache
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\obj\Debug\net10.0\RunningCodeAssignementInC#.AssemblyInfo.cs
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\obj\Debug\net10.0\RunningCodeAssignementInC#.csproj.CoreCompileInputs.cache
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\obj\Debug\net10.0\RunningCodeAssignementInC#.dll
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\obj\Debug\net10.0\refint\RunningCodeAssignementInC#.dll
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\obj\Debug\net10.0\RunningCodeAssignementInC#.pdb
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\obj\Debug\net10.0\RunningCodeAssignementInC#.genruntimeconfig.cache
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\RunningCodeAssignementInC#\RunningCodeAssignementInC#\obj\Debug\net10.0\ref\RunningCodeAssignementInC#.dll
