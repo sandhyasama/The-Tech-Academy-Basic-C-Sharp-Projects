@@ -1,0 +1,14 @@
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\net10.0\DailyReportAssignment.exe
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\net10.0\DailyReportAssignment.deps.json
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\net10.0\DailyReportAssignment.runtimeconfig.json
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\net10.0\DailyReportAssignment.dll
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\net10.0\DailyReportAssignment.pdb
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\net10.0\DailyReportAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\net10.0\DailyReportAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\net10.0\DailyReportAssignment.AssemblyInfo.cs
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\net10.0\DailyReportAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\net10.0\DailyReportAssignment.dll
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\net10.0\refint\DailyReportAssignment.dll
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\net10.0\DailyReportAssignment.pdb
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\net10.0\DailyReportAssignment.genruntimeconfig.cache
+C:\Users\sandy\OneDrive\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\net10.0\ref\DailyReportAssignment.dll
