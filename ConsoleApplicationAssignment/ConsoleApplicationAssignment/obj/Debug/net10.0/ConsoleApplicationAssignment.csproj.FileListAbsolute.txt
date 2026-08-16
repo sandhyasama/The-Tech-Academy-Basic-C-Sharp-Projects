@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net10.0\ConsoleApplicationAssignment.exe
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net10.0\ConsoleApplicationAssignment.deps.json
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net10.0\ConsoleApplicationAssignment.runtimeconfig.json
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net10.0\ConsoleApplicationAssignment.dll
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net10.0\ConsoleApplicationAssignment.pdb
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net10.0\ConsoleApplicationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net10.0\ConsoleApplicationAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net10.0\ConsoleApplicationAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net10.0\ConsoleApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net10.0\ConsoleApplicationAssignment.dll
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net10.0\refint\ConsoleApplicationAssignment.dll
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net10.0\ConsoleApplicationAssignment.pdb
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net10.0\ConsoleApplicationAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net10.0\ref\ConsoleApplicationAssignment.dll
