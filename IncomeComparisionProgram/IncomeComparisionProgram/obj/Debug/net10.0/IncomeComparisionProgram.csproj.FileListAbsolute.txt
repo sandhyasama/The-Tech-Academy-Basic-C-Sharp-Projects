@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\bin\Debug\net10.0\IncomeComparisionProgram.exe
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\bin\Debug\net10.0\IncomeComparisionProgram.deps.json
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\bin\Debug\net10.0\IncomeComparisionProgram.runtimeconfig.json
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\bin\Debug\net10.0\IncomeComparisionProgram.dll
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\bin\Debug\net10.0\IncomeComparisionProgram.pdb
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\net10.0\IncomeComparisionProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\net10.0\IncomeComparisionProgram.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\net10.0\IncomeComparisionProgram.AssemblyInfo.cs
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\net10.0\IncomeComparisionProgram.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\net10.0\IncomeComparisionProgram.dll
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\net10.0\refint\IncomeComparisionProgram.dll
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\net10.0\IncomeComparisionProgram.pdb
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\net10.0\IncomeComparisionProgram.genruntimeconfig.cache
+C:\Users\sandy\Music\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\net10.0\ref\IncomeComparisionProgram.dll
