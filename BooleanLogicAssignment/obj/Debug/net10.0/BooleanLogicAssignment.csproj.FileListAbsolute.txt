@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\net10.0\BooleanLogicAssignment.exe
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\net10.0\BooleanLogicAssignment.deps.json
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\net10.0\BooleanLogicAssignment.runtimeconfig.json
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\net10.0\BooleanLogicAssignment.dll
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\net10.0\BooleanLogicAssignment.pdb
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\net10.0\BooleanLogicAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\net10.0\BooleanLogicAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\net10.0\BooleanLogicAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\net10.0\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\net10.0\BooleanLogicAssignment.dll
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\net10.0\refint\BooleanLogicAssignment.dll
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\net10.0\BooleanLogicAssignment.pdb
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\net10.0\BooleanLogicAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\net10.0\ref\BooleanLogicAssignment.dll
