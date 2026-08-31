@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\obj\Debug\net10.0\BranchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\obj\Debug\net10.0\BranchingAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\obj\Debug\net10.0\BranchingAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\obj\Debug\net10.0\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\bin\Debug\net10.0\BranchingAssignment.exe
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\bin\Debug\net10.0\BranchingAssignment.deps.json
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\bin\Debug\net10.0\BranchingAssignment.runtimeconfig.json
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\bin\Debug\net10.0\BranchingAssignment.dll
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\bin\Debug\net10.0\BranchingAssignment.pdb
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\obj\Debug\net10.0\BranchingAssignment.dll
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\obj\Debug\net10.0\refint\BranchingAssignment.dll
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\obj\Debug\net10.0\BranchingAssignment.pdb
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\obj\Debug\net10.0\BranchingAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\BranchingAssignment\BranchingAssignment\obj\Debug\net10.0\ref\BranchingAssignment.dll
