@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\bin\Debug\net10.0\ConsoleAppWhileDoWhile.exe
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\bin\Debug\net10.0\ConsoleAppWhileDoWhile.deps.json
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\bin\Debug\net10.0\ConsoleAppWhileDoWhile.runtimeconfig.json
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\bin\Debug\net10.0\ConsoleAppWhileDoWhile.dll
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\bin\Debug\net10.0\ConsoleAppWhileDoWhile.pdb
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\obj\Debug\net10.0\ConsoleAppWhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\obj\Debug\net10.0\ConsoleAppWhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\obj\Debug\net10.0\ConsoleAppWhileDoWhile.AssemblyInfo.cs
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\obj\Debug\net10.0\ConsoleAppWhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\obj\Debug\net10.0\ConsoleAppWhileDoWhile.dll
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\obj\Debug\net10.0\refint\ConsoleAppWhileDoWhile.dll
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\obj\Debug\net10.0\ConsoleAppWhileDoWhile.pdb
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\obj\Debug\net10.0\ConsoleAppWhileDoWhile.genruntimeconfig.cache
+C:\Users\sandy\Music\ConsoleAppWhileDoWhile\ConsoleAppWhileDoWhile\obj\Debug\net10.0\ref\ConsoleAppWhileDoWhile.dll

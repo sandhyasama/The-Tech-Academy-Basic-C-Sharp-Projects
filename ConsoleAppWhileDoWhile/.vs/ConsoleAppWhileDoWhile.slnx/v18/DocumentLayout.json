@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandy\\Music\\ConsoleAppWhileDoWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D62F108-37DF-4CDB-ACDC-91D4F9C69B4A}|ConsoleAppWhileDoWhile\\ConsoleAppWhileDoWhile.csproj|c:\\users\\sandy\\music\\consoleappwhiledowhile\\consoleappwhiledowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D62F108-37DF-4CDB-ACDC-91D4F9C69B4A}|ConsoleAppWhileDoWhile\\ConsoleAppWhileDoWhile.csproj|solutionrelative:consoleappwhiledowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\ConsoleAppWhileDoWhile\\ConsoleAppWhileDoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppWhileDoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\ConsoleAppWhileDoWhile\\ConsoleAppWhileDoWhile\\Program.cs",
+              "RelativeToolTip": "ConsoleAppWhileDoWhile\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T00:29:34.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
