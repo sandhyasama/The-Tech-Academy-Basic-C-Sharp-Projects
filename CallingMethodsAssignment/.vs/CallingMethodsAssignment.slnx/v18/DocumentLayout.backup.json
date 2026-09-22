@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandy\\Music\\CallingMethodsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1F87AE-38AA-4942-B731-DDB81C59849A}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|c:\\users\\sandy\\music\\callingmethodsassignment\\callingmethodsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1F87AE-38AA-4942-B731-DDB81C59849A}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|solutionrelative:callingmethodsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1F87AE-38AA-4942-B731-DDB81C59849A}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|c:\\users\\sandy\\music\\callingmethodsassignment\\callingmethodsassignment\\custommath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1F87AE-38AA-4942-B731-DDB81C59849A}|CallingMethodsAssignment\\CallingMethodsAssignment.csproj|solutionrelative:callingmethodsassignment\\custommath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomMath.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CallingMethodsAssignment\\CallingMethodsAssignment\\CustomMath.cs",
+              "RelativeDocumentMoniker": "CallingMethodsAssignment\\CustomMath.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CallingMethodsAssignment\\CallingMethodsAssignment\\CustomMath.cs",
+              "RelativeToolTip": "CallingMethodsAssignment\\CustomMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:09:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CallingMethodsAssignment\\CallingMethodsAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "CallingMethodsAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CallingMethodsAssignment\\CallingMethodsAssignment\\Program.cs",
+              "RelativeToolTip": "CallingMethodsAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:09:15.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

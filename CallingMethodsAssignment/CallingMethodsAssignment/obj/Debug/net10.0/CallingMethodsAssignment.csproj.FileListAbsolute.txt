@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net10.0\CallingMethodsAssignment.exe
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net10.0\CallingMethodsAssignment.deps.json
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net10.0\CallingMethodsAssignment.runtimeconfig.json
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net10.0\CallingMethodsAssignment.dll
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net10.0\CallingMethodsAssignment.pdb
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net10.0\CallingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net10.0\CallingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net10.0\CallingMethodsAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net10.0\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net10.0\CallingMethodsAssignment.dll
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net10.0\refint\CallingMethodsAssignment.dll
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net10.0\CallingMethodsAssignment.pdb
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net10.0\CallingMethodsAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net10.0\ref\CallingMethodsAssignment.dll
