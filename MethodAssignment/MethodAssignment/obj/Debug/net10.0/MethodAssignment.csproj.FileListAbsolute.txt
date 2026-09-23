@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\bin\Debug\net10.0\MethodAssignment.exe
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\bin\Debug\net10.0\MethodAssignment.deps.json
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\bin\Debug\net10.0\MethodAssignment.runtimeconfig.json
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\bin\Debug\net10.0\MethodAssignment.dll
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\bin\Debug\net10.0\MethodAssignment.pdb
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\obj\Debug\net10.0\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\obj\Debug\net10.0\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\obj\Debug\net10.0\MethodAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\obj\Debug\net10.0\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\obj\Debug\net10.0\MethodAssignment.dll
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\obj\Debug\net10.0\refint\MethodAssignment.dll
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\obj\Debug\net10.0\MethodAssignment.pdb
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\obj\Debug\net10.0\MethodAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\MethodAssignment\MethodAssignment\obj\Debug\net10.0\ref\MethodAssignment.dll
