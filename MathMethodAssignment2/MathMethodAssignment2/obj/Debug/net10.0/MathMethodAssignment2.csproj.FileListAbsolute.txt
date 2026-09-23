@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\bin\Debug\net10.0\MathMethodAssignment2.exe
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\bin\Debug\net10.0\MathMethodAssignment2.deps.json
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\bin\Debug\net10.0\MathMethodAssignment2.runtimeconfig.json
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\bin\Debug\net10.0\MathMethodAssignment2.dll
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\bin\Debug\net10.0\MathMethodAssignment2.pdb
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\obj\Debug\net10.0\MathMethodAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\obj\Debug\net10.0\MathMethodAssignment2.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\obj\Debug\net10.0\MathMethodAssignment2.AssemblyInfo.cs
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\obj\Debug\net10.0\MathMethodAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\obj\Debug\net10.0\MathMethodAssignment2.dll
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\obj\Debug\net10.0\refint\MathMethodAssignment2.dll
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\obj\Debug\net10.0\MathMethodAssignment2.pdb
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\obj\Debug\net10.0\MathMethodAssignment2.genruntimeconfig.cache
+C:\Users\sandy\Music\MathMethodAssignment2\MathMethodAssignment2\obj\Debug\net10.0\ref\MathMethodAssignment2.dll
