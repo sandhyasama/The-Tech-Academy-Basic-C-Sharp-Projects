@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\",
+  "WorkspaceRootPath": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|c:\\users\\sandy\\music\\methodsandobjectassignment\\methodsandobjectassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|solutionrelative:methodsandobjectassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|c:\\users\\sandy\\music\\methodsandobjectassignment\\methodsandobjectassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|c:\\users\\sandy\\onedrive\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\methodsandobjectassignment\\methodsandobjectassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|solutionrelative:methodsandobjectassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|c:\\users\\sandy\\music\\methodsandobjectassignment\\methodsandobjectassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|c:\\users\\sandy\\onedrive\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\methodsandobjectassignment\\methodsandobjectassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|solutionrelative:methodsandobjectassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|c:\\users\\sandy\\onedrive\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\methodsandobjectassignment\\methodsandobjectassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C862C1AD-7FA4-350C-FBAB-9CE7A7DF1DD7}|MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj|solutionrelative:methodsandobjectassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,47 +25,47 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Employee.cs",
               "RelativeDocumentMoniker": "MethodsAndObjectAssignment\\Employee.cs",
-              "ToolTip": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Employee.cs",
               "RelativeToolTip": "MethodsAndObjectAssignment\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T18:24:51.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Person.cs",
               "RelativeDocumentMoniker": "MethodsAndObjectAssignment\\Person.cs",
-              "ToolTip": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Person.cs",
+              "ToolTip": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Person.cs",
               "RelativeToolTip": "MethodsAndObjectAssignment\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T18:19:14.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Program.cs",
               "RelativeDocumentMoniker": "MethodsAndObjectAssignment\\Program.cs",
-              "ToolTip": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\Program.cs",
               "RelativeToolTip": "MethodsAndObjectAssignment\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-24T23:43:04.21Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             }
           ]
         }

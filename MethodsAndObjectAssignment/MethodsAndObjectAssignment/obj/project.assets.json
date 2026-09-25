@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj",
       "projectName": "MethodsAndObjectAssignment",
-      "projectPath": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj",
+      "projectPath": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment.csproj",
       "packagesPath": "C:\\Users\\sandy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sandy\\Music\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\obj\\",
+      "outputPath": "C:\\Users\\sandy\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjectAssignment\\MethodsAndObjectAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
