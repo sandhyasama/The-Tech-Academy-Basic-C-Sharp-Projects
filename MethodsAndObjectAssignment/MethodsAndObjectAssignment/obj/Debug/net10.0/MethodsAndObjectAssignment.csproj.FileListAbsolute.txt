@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\net10.0\MethodsAndObjectAssignment.exe
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\net10.0\MethodsAndObjectAssignment.deps.json
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\net10.0\MethodsAndObjectAssignment.runtimeconfig.json
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\net10.0\MethodsAndObjectAssignment.dll
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\net10.0\MethodsAndObjectAssignment.pdb
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\net10.0\MethodsAndObjectAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\net10.0\MethodsAndObjectAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\net10.0\MethodsAndObjectAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\net10.0\MethodsAndObjectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\net10.0\MethodsAndObjectAssignment.dll
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\net10.0\refint\MethodsAndObjectAssignment.dll
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\net10.0\MethodsAndObjectAssignment.pdb
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\net10.0\MethodsAndObjectAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\net10.0\ref\MethodsAndObjectAssignment.dll
