@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\net10.0\PolyMorphismAssignment.exe
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\net10.0\PolyMorphismAssignment.deps.json
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\net10.0\PolyMorphismAssignment.runtimeconfig.json
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\net10.0\PolyMorphismAssignment.dll
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\net10.0\PolyMorphismAssignment.pdb
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\net10.0\PolyMorphismAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\net10.0\PolyMorphismAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\net10.0\PolyMorphismAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\net10.0\PolyMorphismAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\net10.0\PolyMorphismAssignment.dll
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\net10.0\refint\PolyMorphismAssignment.dll
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\net10.0\PolyMorphismAssignment.pdb
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\net10.0\PolyMorphismAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\net10.0\ref\PolyMorphismAssignment.dll
