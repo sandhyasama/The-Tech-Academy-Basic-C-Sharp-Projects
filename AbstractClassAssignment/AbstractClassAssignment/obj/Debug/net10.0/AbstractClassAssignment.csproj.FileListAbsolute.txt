@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net10.0\AbstractClassAssignment.exe
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net10.0\AbstractClassAssignment.deps.json
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net10.0\AbstractClassAssignment.runtimeconfig.json
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net10.0\AbstractClassAssignment.dll
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net10.0\AbstractClassAssignment.pdb
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net10.0\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net10.0\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net10.0\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net10.0\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net10.0\AbstractClassAssignment.dll
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net10.0\refint\AbstractClassAssignment.dll
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net10.0\AbstractClassAssignment.pdb
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net10.0\AbstractClassAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net10.0\ref\AbstractClassAssignment.dll
