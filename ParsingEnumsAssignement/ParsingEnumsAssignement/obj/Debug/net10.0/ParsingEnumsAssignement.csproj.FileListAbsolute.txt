@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\bin\Debug\net10.0\ParsingEnumsAssignement.exe
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\bin\Debug\net10.0\ParsingEnumsAssignement.deps.json
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\bin\Debug\net10.0\ParsingEnumsAssignement.runtimeconfig.json
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\bin\Debug\net10.0\ParsingEnumsAssignement.dll
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\bin\Debug\net10.0\ParsingEnumsAssignement.pdb
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\net10.0\ParsingEnumsAssignement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\net10.0\ParsingEnumsAssignement.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\net10.0\ParsingEnumsAssignement.AssemblyInfo.cs
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\net10.0\ParsingEnumsAssignement.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\net10.0\ParsingEnumsAssignement.dll
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\net10.0\refint\ParsingEnumsAssignement.dll
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\net10.0\ParsingEnumsAssignement.pdb
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\net10.0\ParsingEnumsAssignement.genruntimeconfig.cache
+C:\Users\sandy\Music\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\net10.0\ref\ParsingEnumsAssignement.dll
