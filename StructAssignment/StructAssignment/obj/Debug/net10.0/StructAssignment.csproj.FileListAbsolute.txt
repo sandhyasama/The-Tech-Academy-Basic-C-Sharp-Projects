@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\StructAssignment\StructAssignment\bin\Debug\net10.0\StructAssignment.exe
+C:\Users\sandy\Music\StructAssignment\StructAssignment\bin\Debug\net10.0\StructAssignment.deps.json
+C:\Users\sandy\Music\StructAssignment\StructAssignment\bin\Debug\net10.0\StructAssignment.runtimeconfig.json
+C:\Users\sandy\Music\StructAssignment\StructAssignment\bin\Debug\net10.0\StructAssignment.dll
+C:\Users\sandy\Music\StructAssignment\StructAssignment\bin\Debug\net10.0\StructAssignment.pdb
+C:\Users\sandy\Music\StructAssignment\StructAssignment\obj\Debug\net10.0\StructAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\StructAssignment\StructAssignment\obj\Debug\net10.0\StructAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\StructAssignment\StructAssignment\obj\Debug\net10.0\StructAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\StructAssignment\StructAssignment\obj\Debug\net10.0\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\StructAssignment\StructAssignment\obj\Debug\net10.0\StructAssignment.dll
+C:\Users\sandy\Music\StructAssignment\StructAssignment\obj\Debug\net10.0\refint\StructAssignment.dll
+C:\Users\sandy\Music\StructAssignment\StructAssignment\obj\Debug\net10.0\StructAssignment.pdb
+C:\Users\sandy\Music\StructAssignment\StructAssignment\obj\Debug\net10.0\StructAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\StructAssignment\StructAssignment\obj\Debug\net10.0\ref\StructAssignment.dll
