@@ -30,3 +30,7 @@ List<Employee> employeesWithFirstNameJoeUsingLambda = employees.Where(e => e.Fir
 
 //print the count of employees with first name Joe using lambda expression
 Console.WriteLine("Employees with first name Joe using lambda expression:" + employeesWithFirstNameJoeUsingLambda.Count());
+
+//using Lambda expression make list of employees here Id is greater than 5
+List<Employee> employeesWithIdGreaterThan5 = employees.Where(e => e.Id > 5).ToList();
+Console.WriteLine("Employees with Id greater than 5 using lambda expression:" + employeesWithIdGreaterThan5.Count());
