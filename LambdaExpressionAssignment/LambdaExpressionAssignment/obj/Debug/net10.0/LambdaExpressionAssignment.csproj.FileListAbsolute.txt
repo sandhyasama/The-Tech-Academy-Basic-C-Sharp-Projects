@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net10.0\LambdaExpressionAssignment.exe
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net10.0\LambdaExpressionAssignment.deps.json
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net10.0\LambdaExpressionAssignment.runtimeconfig.json
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net10.0\LambdaExpressionAssignment.dll
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net10.0\LambdaExpressionAssignment.pdb
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net10.0\LambdaExpressionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net10.0\LambdaExpressionAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net10.0\LambdaExpressionAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net10.0\LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net10.0\LambdaExpressionAssignment.dll
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net10.0\refint\LambdaExpressionAssignment.dll
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net10.0\LambdaExpressionAssignment.pdb
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net10.0\LambdaExpressionAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net10.0\ref\LambdaExpressionAssignment.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandy\\Music\\LambdaExpressionAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{374709A8-BABC-4500-904E-2ED95785E408}|LambdaExpressionAssignment\\LambdaExpressionAssignment.csproj|c:\\users\\sandy\\music\\lambdaexpressionassignment\\lambdaexpressionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374709A8-BABC-4500-904E-2ED95785E408}|LambdaExpressionAssignment\\LambdaExpressionAssignment.csproj|solutionrelative:lambdaexpressionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374709A8-BABC-4500-904E-2ED95785E408}|LambdaExpressionAssignment\\LambdaExpressionAssignment.csproj|c:\\users\\sandy\\music\\lambdaexpressionassignment\\lambdaexpressionassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374709A8-BABC-4500-904E-2ED95785E408}|LambdaExpressionAssignment\\LambdaExpressionAssignment.csproj|solutionrelative:lambdaexpressionassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\LambdaExpressionAssignment\\LambdaExpressionAssignment\\Employee.cs",
+              "RelativeDocumentMoniker": "LambdaExpressionAssignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\LambdaExpressionAssignment\\LambdaExpressionAssignment\\Employee.cs",
+              "RelativeToolTip": "LambdaExpressionAssignment\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T22:11:00.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\LambdaExpressionAssignment\\LambdaExpressionAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaExpressionAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\LambdaExpressionAssignment\\LambdaExpressionAssignment\\Program.cs",
+              "RelativeToolTip": "LambdaExpressionAssignment\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T22:10:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
