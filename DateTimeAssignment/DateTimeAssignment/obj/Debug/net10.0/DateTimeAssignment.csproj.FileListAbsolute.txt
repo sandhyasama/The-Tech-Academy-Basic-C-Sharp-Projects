@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\bin\Debug\net10.0\DateTimeAssignment.exe
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\bin\Debug\net10.0\DateTimeAssignment.deps.json
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\bin\Debug\net10.0\DateTimeAssignment.runtimeconfig.json
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\bin\Debug\net10.0\DateTimeAssignment.dll
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\bin\Debug\net10.0\DateTimeAssignment.pdb
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\obj\Debug\net10.0\DateTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\obj\Debug\net10.0\DateTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\obj\Debug\net10.0\DateTimeAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\obj\Debug\net10.0\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\obj\Debug\net10.0\DateTimeAssignment.dll
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\obj\Debug\net10.0\refint\DateTimeAssignment.dll
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\obj\Debug\net10.0\DateTimeAssignment.pdb
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\obj\Debug\net10.0\DateTimeAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\DateTimeAssignment\DateTimeAssignment\obj\Debug\net10.0\ref\DateTimeAssignment.dll
