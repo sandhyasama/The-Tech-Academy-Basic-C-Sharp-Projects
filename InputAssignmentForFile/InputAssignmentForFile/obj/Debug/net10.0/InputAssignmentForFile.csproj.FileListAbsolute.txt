@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\bin\Debug\net10.0\InputAssignmentForFile.exe
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\bin\Debug\net10.0\InputAssignmentForFile.deps.json
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\bin\Debug\net10.0\InputAssignmentForFile.runtimeconfig.json
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\bin\Debug\net10.0\InputAssignmentForFile.dll
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\bin\Debug\net10.0\InputAssignmentForFile.pdb
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\obj\Debug\net10.0\InputAssignmentForFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\obj\Debug\net10.0\InputAssignmentForFile.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\obj\Debug\net10.0\InputAssignmentForFile.AssemblyInfo.cs
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\obj\Debug\net10.0\InputAssignmentForFile.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\obj\Debug\net10.0\InputAssignmentForFile.dll
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\obj\Debug\net10.0\refint\InputAssignmentForFile.dll
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\obj\Debug\net10.0\InputAssignmentForFile.pdb
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\obj\Debug\net10.0\InputAssignmentForFile.genruntimeconfig.cache
+C:\Users\sandy\Music\InputAssignmentForFile\InputAssignmentForFile\obj\Debug\net10.0\ref\InputAssignmentForFile.dll
