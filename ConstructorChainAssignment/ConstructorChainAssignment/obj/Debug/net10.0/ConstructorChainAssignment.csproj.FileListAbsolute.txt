@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\bin\Debug\net10.0\ConstructorChainAssignment.exe
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\bin\Debug\net10.0\ConstructorChainAssignment.deps.json
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\bin\Debug\net10.0\ConstructorChainAssignment.runtimeconfig.json
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\bin\Debug\net10.0\ConstructorChainAssignment.dll
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\bin\Debug\net10.0\ConstructorChainAssignment.pdb
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\obj\Debug\net10.0\ConstructorChainAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\obj\Debug\net10.0\ConstructorChainAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\obj\Debug\net10.0\ConstructorChainAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\obj\Debug\net10.0\ConstructorChainAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\obj\Debug\net10.0\ConstructorChainAssignment.dll
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\obj\Debug\net10.0\refint\ConstructorChainAssignment.dll
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\obj\Debug\net10.0\ConstructorChainAssignment.pdb
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\obj\Debug\net10.0\ConstructorChainAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\ConstructorChainAssignment\ConstructorChainAssignment\obj\Debug\net10.0\ref\ConstructorChainAssignment.dll
