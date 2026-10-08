@@ -1,0 +1,14 @@
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\bin\Debug\net10.0\TryCatchAssignment.exe
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\bin\Debug\net10.0\TryCatchAssignment.deps.json
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\bin\Debug\net10.0\TryCatchAssignment.runtimeconfig.json
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\bin\Debug\net10.0\TryCatchAssignment.dll
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\bin\Debug\net10.0\TryCatchAssignment.pdb
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\obj\Debug\net10.0\TryCatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\obj\Debug\net10.0\TryCatchAssignment.AssemblyInfoInputs.cache
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\obj\Debug\net10.0\TryCatchAssignment.AssemblyInfo.cs
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\obj\Debug\net10.0\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\obj\Debug\net10.0\TryCatchAssignment.dll
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\obj\Debug\net10.0\refint\TryCatchAssignment.dll
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\obj\Debug\net10.0\TryCatchAssignment.pdb
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\obj\Debug\net10.0\TryCatchAssignment.genruntimeconfig.cache
+C:\Users\sandy\Music\TryCatchAssignment\TryCatchAssignment\obj\Debug\net10.0\ref\TryCatchAssignment.dll
