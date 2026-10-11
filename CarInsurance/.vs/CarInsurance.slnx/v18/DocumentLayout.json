@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandy\\Music\\CarInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|c:\\users\\sandy\\music\\carinsurance\\carinsurance\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|c:\\users\\sandy\\music\\carinsurance\\carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|c:\\users\\sandy\\music\\carinsurance\\carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Migrations\\20261011135059_ChangedSpeedingTicketsTypeFromBoolToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarInsurance\\Migrations\\20261011135059_ChangedSpeedingTicketsTypeFromBoolToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|c:\\users\\sandy\\music\\carinsurance\\carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|c:\\users\\sandy\\music\\carinsurance\\carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Migrations\\20261011134302_ChangedDateOfBirthTypeFromStringTODateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarInsurance\\Migrations\\20261011134302_ChangedDateOfBirthTypeFromStringTODateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Migrations\\20261011132835_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarInsurance\\Migrations\\20261011132835_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|c:\\users\\sandy\\music\\carinsurance\\carinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|c:\\users\\sandy\\music\\carinsurance\\carinsurance\\data\\carinsurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28957AA3-887F-4463-B17E-CB81A280B764}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\data\\carinsurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Views\\Insuree\\Admin.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insuree\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Views\\Insuree\\Admin.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Admin.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T13:56:42.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Views\\Insuree\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insuree\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Views\\Insuree\\Create.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T13:55:29.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20261011135059_ChangedSpeedingTicketsTypeFromBoolToInt.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Migrations\\20261011135059_ChangedSpeedingTicketsTypeFromBoolToInt.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20261011135059_ChangedSpeedingTicketsTypeFromBoolToInt.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Migrations\\20261011135059_ChangedSpeedingTicketsTypeFromBoolToInt.cs",
+              "RelativeToolTip": "CarInsurance\\Migrations\\20261011135059_ChangedSpeedingTicketsTypeFromBoolToInt.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:50:59.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261011134302_ChangedDateOfBirthTypeFromStringTODateTime.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Migrations\\20261011134302_ChangedDateOfBirthTypeFromStringTODateTime.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20261011134302_ChangedDateOfBirthTypeFromStringTODateTime.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Migrations\\20261011134302_ChangedDateOfBirthTypeFromStringTODateTime.cs",
+              "RelativeToolTip": "CarInsurance\\Migrations\\20261011134302_ChangedDateOfBirthTypeFromStringTODateTime.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:43:02.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsureeController.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureeController.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeToolTip": "CarInsurance\\Controllers\\InsureeController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwDAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:32:09.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20261011132835_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Migrations\\20261011132835_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20261011132835_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Migrations\\20261011132835_InitialCreate.cs",
+              "RelativeToolTip": "CarInsurance\\Migrations\\20261011132835_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:28:35.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Program.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Program.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Program.cs",
+              "RelativeToolTip": "CarInsurance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:25:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\appsettings.json",
+              "RelativeDocumentMoniker": "CarInsurance\\appsettings.json",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\appsettings.json",
+              "RelativeToolTip": "CarInsurance\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T13:19:15.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Insuree.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Models\\Insuree.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
+              "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:16:47.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarInsuranceContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Data\\CarInsuranceContext.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Data\\CarInsuranceContext.cs",
+              "ToolTip": "C:\\Users\\sandy\\Music\\CarInsurance\\CarInsurance\\Data\\CarInsuranceContext.cs",
+              "RelativeToolTip": "CarInsurance\\Data\\CarInsuranceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:23:46.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
